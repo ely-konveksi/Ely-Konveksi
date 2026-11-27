@@ -1,0 +1,6 @@
+{
+  "name": "Elly Konveksi & Tailor",
+  "description": "Jasa konveksi seragam, kaos, kemeja, jaket, bordir komputer, sablon kain, topi, tas, serta jahit kebaya dan tailor di Bandar Lampung dan Kemiling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
